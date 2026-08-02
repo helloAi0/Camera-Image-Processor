@@ -1,0 +1,28 @@
+app:
+  name: "Camera Image Processor"
+  version: "1.0.0"
+  log_level: "INFO"
+  log_file: "output/app.log"
+
+io:
+  input_dir: "sample_images"
+  output_dir: "output"
+  supported_extensions: [".jpg", ".jpeg", ".png", ".bmp", ".tiff"]
+
+enhancement:
+  contrast_alpha: 1.2
+  brightness_beta: 10
+  clahe_clip_limit: 2.0
+  clahe_tile_grid_size: [8, 8]
+
+edge_detection:
+  canny_threshold1: 100
+  canny_threshold2: 200
+  sobel_ksize: 3
+  laplacian_ksize: 3
+
+segmentation:
+  global_threshold: 127
+  max_value: 255
+  adaptive_block_size: 11
+  adaptive_c: 2.0
