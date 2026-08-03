@@ -1,0 +1,5 @@
+2026-08-02 12:41:03 - TestLogger - [DEBUG] - DEBUG: Initializing camera driver pipeline... (logger.py:95)
+2026-08-02 12:41:03 - TestLogger - [INFO] - INFO: Camera image processor started successfully. (logger.py:96)
+2026-08-02 12:41:03 - TestLogger - [WARNING] - WARNING: Frame rate dropped below 30 FPS! (logger.py:97)
+2026-08-02 12:41:03 - TestLogger - [ERROR] - ERROR: Failed to acquire matrix handle from image buffer. (logger.py:98)
+2026-08-02 12:41:03 - TestLogger - [CRITICAL] - CRITICAL: Hardware sensor thermal shutdown triggered! (logger.py:99)
