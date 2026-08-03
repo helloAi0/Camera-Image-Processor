@@ -1,4 +1,4 @@
-opencv-contrib-python>=4.9.0.80
+opencv-contrib-python-headless>=4.9.0.80
 numpy>=1.26.4
 matplotlib>=3.8.3
 pillow>=10.2.0
