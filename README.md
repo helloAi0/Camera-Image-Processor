@@ -1,9 +1,8 @@
 # 👁️ Vision Studio Pro
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/helloAi0/Camera-Image-Processor/blob/main/LICENSE)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5.0-blue.svg)](https://opencv.org/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://helloai0-camera-image-processor-app-hilmvn.streamlit.app/)
 
 **Vision Studio Pro** is an enterprise-grade Computer Vision engine and interactive spatial intelligence dashboard. Built for professionals, researchers, and engineers, this suite provides a unified interface for high-resolution image processing, stereo vision depth mapping, and asynchronous stream pipeline telemetry.
 
